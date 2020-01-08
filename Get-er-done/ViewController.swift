@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //this is a trivial comment
     override func viewDidLoad() {
         super.viewDidLoad()
     }
